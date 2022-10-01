@@ -1,2 +1,2 @@
-# this is git 
+# this is git tutorials for 
 # This is git rpository
